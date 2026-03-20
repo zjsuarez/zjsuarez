@@ -1,43 +1,43 @@
-<h1 align="center">Buenas! Me llamo Justin Suárez</h1>
-<h3 align="center">Actualmente estudiando Desarollo de Aplicaciones Multiplataforma.</h3>
+<h1 align="center">Hi! I'm Justin Suárez</h1>
+<h3 align="center">Currently studying Cross-Platform Application Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjsuarez&label=Profile%20views&color=0e75b6&style=flat" alt="zjsuarez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjsuarez" alt="zjsuarez" /></a> </p>
 
-- 🌱 Actualmente estudiando en **Stucom Centre d'Estudis Pelai**
+- 🌱 Currently studying at **Stucom Centre d'Estudis Pelai**
 
-- 📱 Enfocado en el desarrollo móvil, especialmente en **Flutter**
+- 📱 Focused on mobile development, especially **Flutter**
 
-¡Hola! Me apasiona crear apps móviles elegantes y funcionales. Estoy siempre aprendiendo nuevas tecnologías y me encanta resolver problemas técnicos con soluciones creativas.
+Hello! I'm passionate about creating elegant and functional mobile apps. I'm always learning new technologies and I love solving technical problems with creative solutions.
 
-- 📫 Como contactarme **zjs.suarez@gmail.com**
+- 📫 How to reach me **zjs.suarez@gmail.com**
 
-- 📄 Mi LinkedIn [https://www.linkedin.com/in/zjsuarez/](https://www.linkedin.com/in/zjsuarez/)
+- 📄 My LinkedIn [https://www.linkedin.com/in/zjsuarez/](https://www.linkedin.com/in/zjsuarez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zjsuarez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Justin" height="30" width="40" /></a>
-<a href="https://instagram.com/zjs0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram de Justin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rsesko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode de Justin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zjsuarez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Justin's LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/zjs0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Justin's Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rsesko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Justin's LeetCode" height="30" width="40" /></a>
 </p>
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
-1.  **Nombre del Proyecto 1**
-    * *Descripción corta del proyecto...*
-    * 🛠️ *Tecnologías:* `Tecnología 1`, `Tecnología 2`
-    * 🔗 [Enlace al Repositorio] | [Demo En vivo (opcional)]
+1.  **Project Name 1**
+    * *Short description of the project...*
+    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
+    * 🔗 [Repository Link] | [Live Demo (optional)]
 
-2.  **Nombre del Proyecto 2**
-    * *Descripción corta del proyecto...*
-    * 🛠️ *Tecnologías:* `Tecnología 1`, `Tecnología 2`
-    * 🔗 [Enlace al Repositorio] | [Demo En vivo (opcional)]
+2.  **Project Name 2**
+    * *Short description of the project...*
+    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
+    * 🔗 [Repository Link] | [Live Demo (optional)]
 
-3.  **Nombre del Proyecto 3**
-    * *Descripción corta del proyecto...*
-    * 🛠️ *Tecnologías:* `Tecnología 1`, `Tecnología 2`
-    * 🔗 [Enlace al Repositorio] | [Demo En vivo (opcional)]
+3.  **Project Name 3**
+    * *Short description of the project...*
+    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
+    * 🔗 [Repository Link] | [Live Demo (optional)]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
