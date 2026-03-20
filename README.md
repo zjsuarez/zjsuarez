@@ -24,20 +24,20 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 
 ### 🚀 Featured Projects
 
-1.  **Project Name 1**
+1.  **KAIZEN - GYM APP IN FLUTTER**
     * *Short description of the project...*
-    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
-    * 🔗 [Repository Link] | [Live Demo (optional)]
+    * 🛠️ *Technologies:* `FLUTTER`, `SPRING BOOT - HIBERNATE`
+    * 🔗 [Link]
 
-2.  **Project Name 2**
+2.  **KAIZEN - GYM APP IN KOTLIN**
     * *Short description of the project...*
-    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
-    * 🔗 [Repository Link] | [Live Demo (optional)]
+    * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
+    * 🔗 [Link] 
 
-3.  **Project Name 3**
+3.  **GAMING EVENTS WEBPAGE**
     * *Short description of the project...*
-    * 🛠️ *Technologies:* `Technology 1`, `Technology 2`
-    * 🔗 [Repository Link] | [Live Demo (optional)]
+    * 🛠️ *Technologies:* `PHP`, `HTML, CSS/TAILWIND`
+    * 🔗 [Link] 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
