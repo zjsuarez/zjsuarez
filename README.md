@@ -34,7 +34,7 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
     * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
     * 🔗 [Link] 
 
-3.  **GAMING EVENTS WEBPAGE**
+3.  **NEXTPLAY - GAMING EVENTS WEB**
     * *Short description of the project...*
     * 🛠️ *Technologies:* `PHP`, `HTML, CSS/TAILWIND`
     * 🔗 [Link] 
