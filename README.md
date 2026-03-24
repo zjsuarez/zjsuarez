@@ -25,12 +25,12 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 ### 🚀 Featured Projects
 
 1.  **KAIZEN - GYM APP IN FLUTTER**
-    * *Short description of the project...*
+    * *Professional gym-tracking App built with Flutter and a FireBase REST API. Features a high-performance PostgreSQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `FLUTTER`, `SPRING BOOT - HIBERNATE`
     * 🔗 [Link]
 
 2.  **KAIZEN - GYM APP IN KOTLIN**
-    * *Short description of the project...*
+    * *Professional gym-tracking App built with Kotlin + Jetpack Compose and a Spring Boot REST API. Features a high-performance MySQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
     * 🔗 [Link] 
 
