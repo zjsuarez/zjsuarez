@@ -54,5 +54,6 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zjsuarez&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zjsuarez languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zjsuarez&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="zjsuarez stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zjsuarez&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="zjsuarez stats" />
+</p>
