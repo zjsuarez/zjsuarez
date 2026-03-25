@@ -53,7 +53,9 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a>
 </p>
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zjsuarez&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zjsuarez languages" /></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zjsuarez&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="zjsuarez stats" />
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zjsuarez&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="zjsuarez stats" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zjsuarez&theme=transparent" alt="mystreak"/></p>
