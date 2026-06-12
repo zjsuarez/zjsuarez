@@ -23,7 +23,7 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 <a href="https://leetcode.com/u/rsesko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Justin's LeetCode" height="30" width="40" /></a>
 </p>
 
- 1.  **KAIZEN - GYM APP IN FLUTTER**
+ 1. **KAIZEN - GYM APP IN FLUTTER**
     * *Professional gym-tracking App built with Flutter and a FireBase REST API. Features a high-performance PostgreSQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `FLUTTER`, `SPRING BOOT - HIBERNATE`
     * 🔗 [Link](https://justinsuarez.is-a.dev/projects/kaizen-frontend)
@@ -32,7 +32,6 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
     * *Professional gym-tracking App built with Kotlin + Jetpack Compose and a Spring Boot REST API. Features a high-performance MySQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
     * 🔗 [Link](https://justinsuarez.is-a.dev/projects/kaizen)
-
 
 3.  **NEXTPLAY - GAMING EVENTS WEB**
     * *Web platform for the gaming community, centered around discovering and joining gaming events and tournaments.*
