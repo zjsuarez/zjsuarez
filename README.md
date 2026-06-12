@@ -31,7 +31,7 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 2.  **KAIZEN - GYM APP IN KOTLIN**
     * *Professional gym-tracking App built with Kotlin + Jetpack Compose and a Spring Boot REST API. Features a high-performance MySQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
-    * 🔗 <a href="(https://justinsuarez.is-a.dev/projects/kaizen" target="_blank" rel="noopener noreferrer">Link</a>
+    * 🔗 <a href="https://justinsuarez.is-a.dev/projects/kaizen" target="_blank" rel="noopener noreferrer">Link</a>
 
 3.  **NEXTPLAY - GAMING EVENTS WEB**
     * *Web platform for the gaming community, centered around discovering and joining gaming events and tournaments.*
