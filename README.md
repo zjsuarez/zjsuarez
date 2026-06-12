@@ -35,7 +35,7 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
 
 
 3.  **NEXTPLAY - GAMING EVENTS WEB**
-    * *Short description of the project...*
+    * *Web platform for the gaming community, centered around discovering and joining gaming events and tournaments.*
     * 🛠️ *Technologies:* `PHP`, `HTML, CSS/TAILWIND`
     * 🔗 [Link](https://justinsuarez.is-a.dev/projects/nextplay)
   
