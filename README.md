@@ -26,17 +26,17 @@ Hello! I'm passionate about creating elegant and functional mobile apps. I'm alw
  1. **KAIZEN - GYM APP IN FLUTTER**
     * *Professional gym-tracking App built with Flutter and a FireBase REST API. Features a high-performance PostgreSQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `FLUTTER`, `SPRING BOOT - HIBERNATE`
-    * 🔗 [Link](https://justinsuarez.is-a.dev/projects/kaizen-frontend)
+    * 🔗 <a href="https://justinsuarez.is-a.dev/projects/kaizen-frontend" target="_blank" rel="noopener noreferrer">Link</a>
 
 2.  **KAIZEN - GYM APP IN KOTLIN**
     * *Professional gym-tracking App built with Kotlin + Jetpack Compose and a Spring Boot REST API. Features a high-performance MySQL architecture, JWT security, and AI-driven routine assistance.*
     * 🛠️ *Technologies:* `KOTLIN`, `SPRING BOOT - HIBERNATE`
-    * 🔗 [Link](https://justinsuarez.is-a.dev/projects/kaizen)
+    * 🔗 <a href="(https://justinsuarez.is-a.dev/projects/kaizen" target="_blank" rel="noopener noreferrer">Link</a>
 
 3.  **NEXTPLAY - GAMING EVENTS WEB**
     * *Web platform for the gaming community, centered around discovering and joining gaming events and tournaments.*
     * 🛠️ *Technologies:* `PHP`, `HTML, CSS/TAILWIND`
-    * 🔗 [Link](https://justinsuarez.is-a.dev/projects/nextplay)
+    * 🔗 <a href="https://justinsuarez.is-a.dev/projects/nextplay" target="_blank" rel="noopener noreferrer">Link</a>
   
 
 <h3 align="left">Languages and Tools:</h3>
